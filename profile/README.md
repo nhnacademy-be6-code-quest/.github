@@ -16,18 +16,34 @@
 2024.06.11. ~ 08.02.
 
 ### 🙋‍♂️ 참가인원
-<table>
+<table style="text-align:center;">
    <tr>
-    <td align="center"><b>박희원</b></td>
-    <td align="center"><b>장기환</b></td>
-    <td align="center"><b>강인준</b></td>
-    <td align="center"><b>전민선</b></td>
+    <td><b>박희원</b></td>
+    <td><b>장기환</b></td>
+    <td><b>강인준</b></td>
+    <td><b>전민선</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/bakhuiwon326"><img src="https://avatars.githubusercontent.com/u/79272597?v=4" width="100px" /></a></td>
-    <td align="center"><a href="https://github.com/gihwanJang"><img src="https://avatars.githubusercontent.com/u/90659997?v=4" width="100px" /></a></td>
-    <td align="center"><a href="https://github.com/InJunKangW"><img src="https://avatars.githubusercontent.com/u/149602262?v=4" width="100px" /></a></td>
-    <td align="center"><a href="https://github.com/ParkSeolDev"><img src="https://avatars.githubusercontent.com/u/163369459?v=4" width="100px" /></a></td>
+    <td>
+        <a href="https://github.com/bakhuiwon326">
+            <img src="https://avatars.githubusercontent.com/u/79272597?v=4" width="100px" />
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/gihwanJang">
+            <img src="https://avatars.githubusercontent.com/u/90659997?v=4" width="100px" />
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/InJunKangW">
+            <img src="https://avatars.githubusercontent.com/u/149602262?v=4" width="100px" />
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/ParkSeolDev">
+            <img src="https://avatars.githubusercontent.com/u/163369459?v=4" width="100px" />
+        </a>
+    </td>
   </tr>
 </table>
 
