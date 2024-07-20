@@ -33,48 +33,33 @@
 
 ## 🚀 프로젝트 기능 소개
 
-<details> <summary>🌐 Front Service</summary>
-    - 전반적인 웹기능을 수행합니다.
-</details>
-<details> <summary>🔒 Auth Service</summary>
-    - 전반적인 웹기능을 수행합니다.
-</details>
-<details> <summary>👥 Client Service</summary>
-    - 전반적인 웹기능을 수행합니다.
-</details>
-<details> <summary>📊 Client Batch Service</summary>
-    - 전반적인 웹기능을 수행합니다.
-</details>
-<details> <summary>✉️ Message Service</summary>
-    - 전반적인 웹기능을 수행합니다.
-</details>
-<details> <summary>🛍️ Product Service</summary>
-    - 전반적인 웹기능을 수행합니다.
-</details>
-<details> <summary>🔍 Search Service</summary>
-    - 전반적인 웹기능을 수행합니다.
-</details>
-<details> <summary>⭐ Review Service</summary>
-    - 전반적인 웹기능을 수행합니다.
-</details>
-<details> <summary>🛒 Order Service</summary>
-    - 전반적인 웹기능을 수행합니다.
-</details>
-<details> <summary>🎟️ Coupon Service</summary>
-    - 전반적인 웹기능을 수행합니다.
-</details>
-<details> <summary>📋 Coupon Batch Service</summary>
-    - 전반적인 웹기능을 수행합니다.
-</details>
-<details> <summary>💎 Point Service</summary>
-    - 전반적인 웹기능을 수행합니다.
-</details>
-<details> <summary>🚪 Gateway Service</summary>
-    - 전반적인 웹기능을 수행합니다.
-</details>
-<details> <summary>🔗 Eureka Service</summary>
-    - 전반적인 웹기능을 수행합니다.
-</details>
+[🌐 Front Service](https://github.com/nhnacademy-be6-code-quest/web)
+
+[🔒 Auth Service](https://github.com/nhnacademy-be6-code-quest/service-auth)
+
+[👥 Client Service](https://github.com/nhnacademy-be6-code-quest/service-client)
+
+[📊 Client Batch Service](https://github.com/nhnacademy-be6-code-quest/client-batch)
+
+[✉️ Message Service](https://github.com/nhnacademy-be6-code-quest/message)
+
+[🛍️ Product Servicee](https://github.com/nhnacademy-be6-code-quest/service-product)
+
+[🔍 Search Service](https://github.com/nhnacademy-be6-code-quest/service-search)
+
+[⭐ Review Service](https://github.com/nhnacademy-be6-code-quest/service-review-v2)
+
+[🛒 Order Service](https://github.com/nhnacademy-be6-code-quest/service-order_payment_refund)
+
+[🎟️ Coupon Service](https://github.com/nhnacademy-be6-code-quest/service-coupon)
+
+[📋 Coupon Batch Service](https://github.com/nhnacademy-be6-code-quest/coupon_service_batch)
+
+[💎 Point Service](https://github.com/nhnacademy-be6-code-quest/service-point)
+
+[🚪 Gateway Service](https://github.com/nhnacademy-be6-code-quest/gateway)
+
+[🔗 Eureka Service](https://github.com/nhnacademy-be6-code-quest/eureka)
 
   
 ### Architecture
