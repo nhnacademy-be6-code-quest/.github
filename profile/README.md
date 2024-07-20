@@ -78,7 +78,7 @@
 
   
 ### Architecture
-![architecture img](./img/Architecture.png)
+![architecture img](../img/Architecture.png)
 
 ### 🛠 Tools
 Frontend
@@ -117,4 +117,4 @@ CI
 </p>
 
 ## ERD
-![erd](./img/ERD.png)
+![erd](../img/ERD.png)
