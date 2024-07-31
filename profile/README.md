@@ -79,7 +79,7 @@
 
   
 ### Architecture
-![architecture img](../img/CodeQuest 서비스 아키텍처.png)
+![architecture img](../img/Architecture_v2.png)
 
 ### 🛠 Tools
 Frontend
